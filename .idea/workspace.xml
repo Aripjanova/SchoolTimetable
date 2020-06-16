@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="008d8119-5ec1-4a54-980b-1721fca126b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YoXvR7xYAIIntg4wlOqYetH3l0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="008d8119-5ec1-4a54-980b-1721fca126b6" name="Default Changelist" comment="" />
+      <created>1583610150414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583610150414</updated>
+      <workItem from="1583610152861" duration="1236000" />
+      <workItem from="1583760595545" duration="4602000" />
+      <workItem from="1583779848451" duration="1443000" />
+      <workItem from="1583829044068" duration="7329000" />
+      <workItem from="1584000107786" duration="1894000" />
+      <workItem from="1584013066805" duration="7122000" />
+      <workItem from="1584082199065" duration="7156000" />
+      <workItem from="1584170034190" duration="9905000" />
+      <workItem from="1584197913429" duration="1730000" />
+      <workItem from="1584889522973" duration="867000" />
+      <workItem from="1584940714053" duration="27419000" />
+      <workItem from="1585165835722" duration="1899000" />
+      <workItem from="1585193537988" duration="3844000" />
+      <workItem from="1585801363964" duration="269000" />
+      <workItem from="1585895768254" duration="621000" />
+      <workItem from="1587357736659" duration="623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="58" width="800" height="677" key="#ESLint" timestamp="1584014232411">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="305" y="58" width="800" height="677" key="#ESLint/55.27.1311.741@55.27.1311.741" timestamp="1584014232411" />
+    <state x="168" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584016120926">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="168" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/55.27.1311.741@55.27.1311.741" timestamp="1584016120926" />
+    <state x="366" y="201" width="679" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583832892745">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="366" y="201" width="679" height="390" key="#com.intellij.fileTypes.FileTypeChooser/55.27.1311.741@55.27.1311.741" timestamp="1583832892745" />
+    <state x="443" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584180101726">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="443" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/55.27.1311.741@55.27.1311.741" timestamp="1584180101726" />
+    <state x="430" y="199" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585139488070">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="430" y="199" width="424" height="484" key="FileChooserDialogImpl/55.27.1311.741@55.27.1311.741" timestamp="1585139488070" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/learning/counter.jsx</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
